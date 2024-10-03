@@ -18,7 +18,8 @@ e-Dormitory is a dormitory management system developed based on the **Laravel** 
 &emsp; &emsp; • updating student information <br>
 
 **(3) Room Transfers**: <br>
-&emsp; &ensp;This function allows the community center to process room transfers for residents, including:<br> 
+&emsp; &ensp;This function allows the community center to process room transfers for residents,<br> 
+&emsp; &ensp;including: 
 &emsp; &emsp; • ensuring the target room complies with regulations <br>
 &emsp; &emsp; • freeing up beds in the original room <br>
 &emsp; &emsp; • modifying target room information (occupying a bed) <br>
@@ -35,7 +36,7 @@ e-Dormitory is a dormitory management system developed based on the **Laravel** 
 **(6) Equipment Repair Management**: <br>
 &emsp; &ensp; • Provides a channel for students to submit equipment repair requests. <br>
 &emsp; &ensp; • The property management team can review and respond to these requests with detailed information on <br> 
-&emsp; &emsp; the repair status, including completed and pending repairs. <br>
+&emsp; &emsp; &ensp; the repair status, including completed and pending repairs. <br>
 &emsp; &ensp; • Dormitory managers can also view the detailed repair requests of their respective buildings. <br>
 
 **(7) Room Card Management**: <br>
@@ -47,6 +48,6 @@ e-Dormitory is a dormitory management system developed based on the **Laravel** 
 
 **(9) Utility Bill Management**: <br>
 &emsp; &ensp; • Students can pay their utility bills for the previous month and view the payment history for utilities <br>
-&emsp; &emsp; during their dorm stay. <br>
+&emsp; &emsp; &ensp; during their dorm stay. <br>
 &emsp; &ensp; • The property management team can issue payment notifications. <br>
 &emsp; &ensp; • Dormitory managers can monitor the payment status of each dormitory within their building.<br>
