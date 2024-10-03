@@ -18,8 +18,7 @@ e-Dormitory is a dormitory management system developed based on the **Laravel** 
 &emsp; &emsp; • updating student information <br>
 
 **(3) Room Transfers**: <br>
-&emsp; &ensp;This function allows the community center to process room transfers for residents,<br> 
-&emsp; &ensp;including: <br>
+&emsp; &ensp;This function allows the community center to process room transfers for residents, including:<br> 
 &emsp; &emsp; • ensuring the target room complies with regulations <br>
 &emsp; &emsp; • freeing up beds in the original room <br>
 &emsp; &emsp; • modifying target room information (occupying a bed) <br>
