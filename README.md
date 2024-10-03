@@ -12,7 +12,8 @@ e-Dormitory is a dormitory management system developed based on the **Laravel** 
 &emsp; &ensp; automatically process check-in for all listed students and generate a final allocation report. <br>
 
 **(2) Check-out Procedures**: <br>
-&emsp; &ensp;This function handles the check-out process for graduates or students applying to leave the dormitory, including:<br> 
+&emsp; &ensp;This function handles the check-out process for graduates or students applying to leave the dormitory,<br> 
+&emsp; &ensp;including: <br>
 &emsp; &emsp; • freeing up the beds in the original room <br>
 &emsp; &emsp; • deactivating room cards <br>
 &emsp; &emsp; • updating student information <br>
